@@ -31,4 +31,4 @@ modo = input("""
 if modo == "nmap":
   nmap()
 else:
-  print("Esse modo não existe.")
+  print("This mode does not exist.")
